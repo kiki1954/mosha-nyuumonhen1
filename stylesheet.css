@@ -1,0 +1,151 @@
+body {
+margin: 0;
+}
+
+header {
+  display: flex;
+  text-align: center;
+  width: 400px;
+  height: 36px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  height: 23px;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  font-size: 10px;
+  color: #333;
+  transform: scale(0.8);
+  padding: 0;
+  margin: 0;
+  margin-top: 10px;
+  margin-left: 270px;
+}
+
+a {
+  text-decoration: none;
+}
+
+header li {
+  margin: 11px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.mainvisual img {
+  width: 1100px;
+  height: 350px;
+}
+
+.about {
+  width: 340px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  height: 70px;
+  margin-left: 5px;
+}
+
+.about h1 {
+  text-align: center;
+  font-size: 18px;
+  color: #333;
+  text-decoration: underline;
+  text-decoration-color: #333;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 8px;
+}
+
+
+.about img {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  margin: 0;
+}
+
+.text {
+  text-align: left;
+  margin: 0;
+}
+
+.about h2 {
+  font-size: 12px;
+  color: #333;
+  transform: scale(0.8);
+  margin: 0;
+}
+
+.about p {
+  font-size: 10px;
+  color: #333;
+  transform: scale(0.8);
+  margin: 0;
+}
+
+.bicycle {
+  text-align: center;
+  width: 550px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+.bicycle h1 {
+  font-size: 18px;
+  color: #333;
+  margin: 35px;
+  text-decoration: underline;
+  text-decoration-color: #333;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 8px;
+}
+
+.bicycle ul{
+  list-style: none;
+  display: flex;
+}
+
+.bicycle img {
+  width: 145px;
+  height: 95px;
+  text-align: center;
+  margin: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bicycle h2 {
+  font-size: 12px;
+  color: #333;
+  transform: scale(0.8);
+  margin: 0;
+}
+
+.bicycle p {
+  font-size: 10px;
+  color: #333;
+  transform: scale(0.8);
+  margin-top: 0;
+}
+
+footer {
+  font-size: 5px;
+  transform: scale(0.58);
+  color: #333;
+  text-align: center;
+}
